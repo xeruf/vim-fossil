@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead ci-comment-*.txt setfiletype fossil-status
+autocmd BufNewFile,BufRead ci-comment-*.txt set filetype=fossil-status
